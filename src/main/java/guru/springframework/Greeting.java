@@ -1,9 +1,9 @@
 package guru.springframework;
 
 /**
- * Created by jt on 10/10/18.
+ * Created by jt on 30/09/25.
  */
-public class Greating {
+public class Greeting {
 
     private static final String HELLO = "Hello";
     private static final String WORLD = "World";
